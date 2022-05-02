@@ -1,4 +1,4 @@
 Dette er et test prosjekt
 
 ## Oppdatering på GitHub
-Vi redigere dette onine
+Vi redigere dette onLine
